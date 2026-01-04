@@ -1,0 +1,59 @@
+# Privacy Policy per Domestic Manager  
+  
+Ultimo aggiornamento: 4 gennaio 2026  
+  
+Questa Privacy Policy descrive come Domestic Manager ("Noi", "App") raccoglie, utilizza e condivide le informazioni personali quando utilizzi la nostra applicazione mobile. 
+  
+## Informazioni che raccogliamo  
+  
+### Informazioni fornite dall'utente  
+- Informazioni di autenticazione (email, nome)  
+- Dati sui prodotti domestici (nome, marca, data di scadenza, categoria)  
+- Informazioni sui contenitori domestici  
+- Immagini scansionate tramite la fotocamera per la lettura dei codici a barre 
+  
+### Informazioni tecniche  
+- Informazioni sul dispositivo (modello, sistema operativo)  
+- Informazioni sull'utilizzo dell'app  
+  
+## Come utilizziamo le informazioni  
+  
+- Per fornire e migliorare le funzionalit dell'app  
+- Per consentire la scansione dei codici a barre  
+- Per gestire i dati sui prodotti domestici  
+- Per fornire notifiche personalizzate 
+  
+  
+## Condivisione delle informazioni  
+  
+Non vendiamo, commerciamo n trasferiamo a terzi le tue informazioni personali. Le informazioni vengono condivise solo con:  
+- Servizi di backend (Firebase) per l'autenticazione e il database  
+- Google Play Services per le notifiche push  
+  
+## Sicurezza  
+  
+Adottiamo misure di sicurezza appropriate per proteggere le tue informazioni personali. Tuttavia, nessun metodo di trasmissione su Internet o metodo di archiviazione elettronica  100% sicuro. 
+  
+  
+## Accesso alla fotocamera  
+  
+L'app richiede l'accesso alla fotocamera esclusivamente per la scansione dei codici a barre dei prodotti. Le immagini non vengono memorizzate permanentemente n condivise con terze parti.  
+  
+## Diritti degli utenti  
+  
+Hai il diritto di:  
+- Accedere alle tue informazioni personali  
+- Richiedere la correzione dei dati errati  
+- Richiedere la cancellazione dei tuoi dati  
+- Revocare il consenso all'utilizzo dei dati 
+  
+  
+## Contatti  
+  
+Per domande su questa Privacy Policy, contattaci all'indirizzo:  
+[Inserisci il tuo indirizzo email]  
+  
+## Modifiche alla Privacy Policy  
+  
+Eventuali modifiche a questa Privacy Policy saranno pubblicate in questa pagina. Ti consigliamo di rivedere periodicamente questa Privacy Policy per eventuali aggiornamenti. 
+Eventuali modifiche a questa Privacy Policy saranno pubblicate in questa pagina. Ti consigliamo di rivedere periodicamente questa Privacy Policy per eventuali aggiornamenti. 
